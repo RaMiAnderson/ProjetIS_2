@@ -1,5 +1,5 @@
-import express from "express";
-
+import express from "express"
+import dataDb from "./models/db.model.js"
 const app =express()
 
 
